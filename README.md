@@ -1,4 +1,4 @@
-# Smart-Device-for-Dumb-People
+# Text to Speech converter for the speech impaired
 Raspberry Pi and Python Kivy
 
 There are situations where dumb people cannot find any medium to convey their message (ex: paper and pen). 
